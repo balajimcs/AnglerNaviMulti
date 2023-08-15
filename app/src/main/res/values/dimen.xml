@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="map_padding">100dp</dimen>
+    <dimen name="overlay_top_margin">100dp</dimen>
+    <dimen name="overlay_bottom_margin">100dp</dimen>
+</resources>

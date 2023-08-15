@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DashboardFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="400dp"
+        android:layout_height="117dp"
+        android:layout_weight="1"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/angler" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="524dp"
+        android:text="@string/home1"
+        android:textColor="@color/black"
+        app:fontFamily="sans-serif-smallcaps"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="385dp"
+        android:layout_height="190dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="228dp"
+        android:layout_marginEnd="15dp"
+            app:fontFamily="sans-serif-smallcaps"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+        android:text="@string/home2"
+        android:textSize="20sp" />
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="450dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="50dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/myButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="10dp"
+            app:fontFamily="sans-serif-smallcaps"
+            android:textAlignment="center"
+            android:text="@string/home3"
+            android:textSize="20sp"/>
+        <Button
+            android:id="@+id/myButton1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="10dp"
+            android:text="@string/home4"
+            android:textSize="20sp"
+            app:fontFamily="sans-serif-smallcaps"
+            android:textAlignment="center"/>
+<!--        <Button-->
+<!--            android:id="@+id/myButton2"-->
+<!--            android:layout_width="150dp"-->
+<!--            android:layout_height="150dp"-->
+<!--            android:layout_marginEnd="10dp"-->
+<!--            android:text="@string/home5"-->
+<!--            android:textSize="20sp"-->
+<!--            app:fontFamily="sans-serif-smallcaps"-->
+<!--            android:textAlignment="center"/>-->
+    </LinearLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>

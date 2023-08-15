@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ஆங்லர் நவிமல்டிலாங்</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">வணக்கம் வெற்று துண்டு</string>
+    <string name="open_nav">வழிசெலுத்தல் டிராயரைத் திறக்கவும்</string>
+    <string name="close_nav">வழிசெலுத்தல் டிராயரை மூடு</string>
+    <string name="angler1">ஆஃப்ஷோர் அவுட்சோர்சிங் சேவைகள்</string>
+    <string name="angler2">இணைய பயன்பாட்டு மேம்பாடு</string>
+    <string name="angler3">மொபைல் பயன்பாட்டு மேம்பாட்டு சேவைகள்</string>
+    <string name="angler4">மின் வணிகம்</string>
+    <string name="angler5">டெவொப்ஸ்</string>
+    <string name="angler6">சோதனை சேவைகள்</string>
+    <string name="angler7">வடிவமைப்பு சேவைகள்</string>
+    <string name="angler8">டிஜிட்டல் மார்க்கெட்டிங் சேவைகள்</string>
+    <string name="home1">ஆங்லர் டெக்னாலஜிகளுக்கு வரவேற்கிறோம்</string>
+    <string name="home2">இந்தியாவை தளமாகக் கொண்ட முன்னோடி இணைய-தீர்வுகள் நிறுவனம் உலகளாவிய அலுவலகங்களைக் கொண்டுள்ளது. எங்களின் தனித்துவமான முழு சேவை வழங்குநர் (FSP) தீர்வுகள் மாதிரியானது, ஆஃப்ஷோர் மென்பொருள் மேம்பாடு, மின் வணிகத் தயாரிப்புகள் மற்றும் ஊடாடும் மீடியாவின் சிறந்த உலகங்களை உங்களுக்குக் கொண்டு வருகிறது.</string>
+    <string name="home3">புதுமைக்கான பங்குதாரர்</string>
+    <string name="home4">அதிநவீன வணிக தயாரிப்புகள்</string>
+    <string name="home5">கிரியேட்டிவ் வடிவமைப்பு தீர்வுகள்</string>
+    <string name="Dash">டாஷ்போர்டு</string>
+    <string name="Web">இணையக்காட்சி</string>
+    <string name="View">காண்க</string>
+    <string name="Logout">கட்டக்காட்சி</string>
+    <string name="Map">வரைபடம்</string>
+</resources>
